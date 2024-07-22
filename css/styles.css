@@ -246,9 +246,9 @@ ol {
 }
 
 /*FIRST SECTION*/
-.section-container {
+/*.section-container {
 
-}
+}*/
 
 .container-icon {
   display: flex;
@@ -561,8 +561,8 @@ ol {
   color: var(--color-cloud);
 }
 
-.social-media-container {
-}
+/*.social-media-container {
+}*/
 
 .social-media-text {
   font-weight: 500;
