@@ -56,8 +56,7 @@ ol {
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
-  position: relative;
-  text-align: center;
+
 }
 
 /* HEADER*/
@@ -96,6 +95,12 @@ ol {
 }
 
 .header-logo-part-dark {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: var(--color-navy-blue);
 }
 
@@ -199,6 +204,7 @@ ol {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  margin: 0 auto;
 }
 
 .hero-tittle {
@@ -313,7 +319,6 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-slate);
-  margin-bottom: 8px;
 }
 
 /*SECOND SECTION*/
@@ -380,6 +385,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-weight: 400;
+  margin-bottom: 8px;
 }
 
 .menu-social-list-icon {
@@ -546,10 +552,11 @@ ol {
 
 .text-footer {
   width: 264px;
+  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: var(--color-cloud, #f4f4fd);
+  color: var(--color-cloud);
 }
 
 .social-media-container {}
@@ -611,6 +618,12 @@ ol {
   margin-bottom: 16px;
 }
 
+
 .footer-logo-part-light {
   color: var(--color-cloud);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
